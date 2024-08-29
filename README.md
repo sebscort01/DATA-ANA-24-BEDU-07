@@ -10,6 +10,7 @@ To run the code in this repository you shall create a virtual environment with `
 python -m venv .venv
 ```
 
+
 Do not forget activate your `virtual environment` with:
 
 For Mac and Linux.
